@@ -1,0 +1,5 @@
+# CSV 파일 무시
+*.csv
+
+# Jupyter Notebook checkpoint 파일 무시
+.ipynb_checkpoints/
