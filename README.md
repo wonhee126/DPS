@@ -1,0 +1,32 @@
+# Data-Processing
+
+This repository contains practical exercises and mini-projects related to data preprocessing.
+
+## 📂 Structure
+
+📂**Data Practice/**  
+	Exercises focused on data preprocessing techniques.  
+
+- **Titanic_Data Cleaning**: `Data cleaning` with Pandas, handling missing values, outliers, duplicates, text and datetime processing.  
+
+- **Salary_Data Transformation**: `Data transformation` with Pandas, merging datasets, summarizing, handling missing values and outliers, aggregation, pivot tables, log transformation, one-hot encoding, scaling, PCA.
+
+
+
+📁 **Data Project/**  
+	Projects that apply data preprocessing techniques to real-world datasets.  
+
+- **Segmentation_Project**: Analysis based on `RFM (Recency, Frequency, Monetary) segmentation`.  
+
+- **TaxiFare_Project**: Analysis based on `data cleaning` techniques.
+- **UK_UsedCarPrices_Project**: Analysis based on `data transformation` techniques.
+
+
+
+## ✨ Skills Covered
+
+**🛠️ Tech Stack**  
+Pandas, Numpy, SQL, BigQuery, Jupyter Notebook
+
+📊 **Techniques**  
+Missing value handling, Outlier detection, Duplicate removal, One-hot encoding, Scaling, Principal Component Analysis (PCA)
