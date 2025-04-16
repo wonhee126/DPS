@@ -19,7 +19,7 @@ This repository contains practical exercises and mini-projects related to data p
 - **Segmentation_Project**: Analysis based on `RFM (Recency, Frequency, Monetary) segmentation`.  
 
 - **TaxiFare_Project**: Analysis based on `data cleaning` techniques.
-- **UK_UsedCarPrices_Project**: Analysis based on `data transformation` techniques.
+- **Used Car Prices_Project**: Analysis based on `data transformation` techniques.
 
 
 
