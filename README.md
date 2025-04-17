@@ -8,8 +8,8 @@ This repository contains practical exercises and mini-projects related to data p
 	Exercises focused on data preprocessing techniques.  
 
 - **Titanic_Data Cleaning**: `Data cleaning` with Pandas, handling missing values, outliers, duplicates, text and datetime processing.  
-
 - **Salary_Data Transformation**: `Data transformation` with Pandas, merging datasets, summarizing, handling missing values and outliers, aggregation, pivot tables, log transformation, one-hot encoding, scaling, PCA.
+- **Speed Dating_Feature Engineering**: `Feature engineering` with Pandas using the Speed Dating dataset to derive additional insights from the provided data.
 
 
 
