@@ -17,9 +17,9 @@ This repository contains practical exercises and mini-projects related to data p
 	Projects that apply data preprocessing techniques to real-world datasets.  
 
 - **Segmentation_Project**: Analysis based on `RFM (Recency, Frequency, Monetary) segmentation`.  
-
 - **TaxiFare_Project**: Analysis based on `data cleaning` techniques.
 - **Used Car Prices_Project**: Analysis based on `data transformation` techniques.
+- **Credit Transaction Anomaly Detection_Project**: Analysis based on `feature engineering` techniques.
 
 
 
@@ -29,4 +29,4 @@ This repository contains practical exercises and mini-projects related to data p
 Pandas, Numpy, SQL, BigQuery, Jupyter Notebook
 
 📊 **Techniques**  
-Missing value handling, Outlier detection, Duplicate removal, One-hot encoding, Scaling, Principal Component Analysis (PCA)
+Missing value handling, Outlier detection, Duplicate removal, One-hot encoding, Scaling, Principal Component Analysis (PCA), feature engineering
