@@ -1,11 +1,15 @@
-# Data-Processing
+# DPS(Data Processing and Data Statistics)
 
-This repository contains practical exercises and mini-projects related to data preprocessing.
+This repository contains practical exercises and mini-projects related to data preprocessing and data statistics.
 
 ## 📂 Structure
 
-📂**Data Practice/**  
-	Exercises focused on data preprocessing techniques.  
+### 📂**Data-Processing**
+
+---
+
+​	📂**Data Practice/**  
+​		Exercises focused on data preprocessing techniques.  
 
 - **Titanic_Data Cleaning**: `Data cleaning` with Pandas, handling missing values, outliers, duplicates, text and datetime processing.  
 - **Salary_Data Transformation**: `Data transformation` with Pandas, merging datasets, summarizing, handling missing values and outliers, aggregation, pivot tables, log transformation, one-hot encoding, scaling, PCA.
@@ -13,8 +17,8 @@ This repository contains practical exercises and mini-projects related to data p
 
 
 
-📁 **Data Project/**  
-	Projects that apply data preprocessing techniques to real-world datasets.  
+​	📁 **Data Project/**  
+​		Projects that apply data preprocessing techniques to real-world datasets.  
 
 - **Segmentation_Project**: Analysis based on `RFM (Recency, Frequency, Monetary) segmentation`.  
 - **TaxiFare_Project**: Analysis based on `data cleaning` techniques.
@@ -23,10 +27,23 @@ This repository contains practical exercises and mini-projects related to data p
 
 
 
+### **📂Data-Statistics**
+
+---
+
+- **MainQuest1**
+
+
+
+
+
 ## ✨ Skills Covered
 
 **🛠️ Tech Stack**  
-Pandas, Numpy, SQL, BigQuery, Jupyter Notebook
+Pandas, Numpy, SQL, BigQuery, Jupyter Notebook, google colab
 
 📊 **Techniques**  
-Missing value handling, Outlier detection, Duplicate removal, One-hot encoding, Scaling, Principal Component Analysis (PCA), feature engineering
+
+- Missing value handling, Outlier detection, Duplicate removal, One-hot encoding, Scaling, Principal Component Analysis (PCA), feature engineering
+- 통계
+
