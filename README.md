@@ -25,7 +25,9 @@ This repository contains practical exercises and mini-projects related to data p
 - **Used Car Prices_Project**: Analysis based on `data transformation` techniques.
 - **Credit Transaction Anomaly Detection_Project**: Analysis based on `feature engineering` techniques.
 
+  
 
+  
 
 ### **📂Data-Statistics**
 
@@ -33,9 +35,9 @@ This repository contains practical exercises and mini-projects related to data p
 
 - **MainQuest1**
 
+  
 
-
-
+  
 
 ## ✨ Skills Covered
 
