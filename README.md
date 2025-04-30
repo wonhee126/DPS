@@ -4,7 +4,7 @@ This repository contains practical exercises and mini-projects related to data p
 
 ## 📂 Structure
 
-### 📂**Data-Processing**
+### 📂**Data-Processing**/
 
 ---
 
@@ -15,7 +15,7 @@ This repository contains practical exercises and mini-projects related to data p
 - **Salary_Data Transformation**: `Data transformation` with Pandas, merging datasets, summarizing, handling missing values and outliers, aggregation, pivot tables, log transformation, one-hot encoding, scaling, PCA.
 - **Speed Dating_Feature Engineering**: `Feature engineering` with Pandas using the Speed Dating dataset to derive additional insights from the provided data.
 
-
+  
 
 ​	📁 **Data Project/**  
 ​		Projects that apply data preprocessing techniques to real-world datasets.  
@@ -29,11 +29,12 @@ This repository contains practical exercises and mini-projects related to data p
 
   
 
-### **📂Data-Statistics**
+### **📂Data-Statistics/**
 
 ---
 
-- **MainQuest1**
+- **AARRR & Statistical Analysis**: Analysis based on the `AARRR` framework
+- **Basic Statistics**: Understanding the `fundamentals of statistics`.
 
   
 
@@ -47,5 +48,4 @@ Pandas, Numpy, SQL, BigQuery, Jupyter Notebook, google colab
 📊 **Techniques**  
 
 - Missing value handling, Outlier detection, Duplicate removal, One-hot encoding, Scaling, Principal Component Analysis (PCA), feature engineering
-- 통계
-
+- Acquisition, Activation, Retention, Revenue(ARPU), Revenue(CLV), Distribution Visualization, One-Sample t-Test, Independent Sample t-Test, Paired Sample t-Test, Sampling, Confidence Interval, Hypothesis Testing, A/B Test
